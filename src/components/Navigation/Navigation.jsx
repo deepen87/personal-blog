@@ -56,14 +56,14 @@ export default class Navigation extends Component {
 									<FaInstagram />
 								</a>
 								<a
-									href="https://www.twitter.com/deepen69"
+									href="https://www.twitter.com/deepen_dangol"
 									target="_blank"
 									rel="noopener noreferrer"
 								>
 									<FaTwitter />
 								</a>
 								<a
-									href="https://www.youtube.com/deepen69"
+									href="https://www.youtube.com/deepen_dangol"
 									target="_blank"
 									rel="noopener noreferrer"
 								>
