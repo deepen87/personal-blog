@@ -49,25 +49,25 @@ export default class Navigation extends Component {
 						<div className={styles.socialMedia}>
 							<span>
 								<a
-									href="https://www.instagram.com/lekoarts.de"
+									href="https://www.instagram.com/deepen69"
 									target="_blank"
 									rel="noopener noreferrer"
 								>
 									<FaInstagram />
 								</a>
 								<a
-									href="https://www.behance.net/lekoarts"
+									href="https://www.twitter.com/deepen69"
 									target="_blank"
 									rel="noopener noreferrer"
 								>
-									<FaBehance />
+									<FaTwitter />
 								</a>
 								<a
-									href="https://dribbble.com/LeKoArts"
+									href="https://www.youtube.com/deepen69"
 									target="_blank"
 									rel="noopener noreferrer"
 								>
-									<FaDribbble />
+									<FaYoutube />
 								</a>
 							</span>
 						</div>
@@ -102,25 +102,25 @@ export default class Navigation extends Component {
 							</Link>
 							<div className={styles.mobileNavSocialMedia}>
 								<a
-									href="https://www.instagram.com/lekoarts.de"
+									href="https://www.instagram.com/deepen69"
 									target="_blank"
 									rel="noopener noreferrer"
 								>
 									<FaInstagram />
 								</a>
 								<a
-									href="https://www.behance.net/lekoarts"
+									href="https://www.twitter.com/deepen69"
 									target="_blank"
 									rel="noopener noreferrer"
 								>
-									<FaBehance />
+									<FaTwitter />
 								</a>
 								<a
-									href="https://dribbble.com/LeKoArts"
+									href="https://www.youtube.com/deepen69"
 									target="_blank"
 									rel="noopener noreferrer"
 								>
-									<FaDribbble />
+									<FaYoutube />
 								</a>
 							</div>
 						</Menu>

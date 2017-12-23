@@ -1,10 +1,10 @@
 ![](https://i.imgur.com/M0nwIVi.png)
 
-# Gatsby Starter Portfolio: Emma
+# Gatsby Portfolio Blog: Deepen
 
 A portfolio starter for [Gatsby](https://www.gatsbyjs.org/). The target audience are Designers and Photographers.
 
-[Demo Website](https://embalmer-glues-43220.netlify.com/)
+[Demo Website](https://deependangol.netlify.com/)
 
 - Full-width Grid-Layout
 - Large images
@@ -44,7 +44,7 @@ Check your development environment! You'll need [Node.js](https://nodejs.org/en/
 To copy and install this starter run this command (with "Project-Name" being the name of your folder you wish to install it)
 
 ```
-gatsby new Project-Name https://github.com/LeKoArts/gatsby-starter-portfolio-emma
+gatsby new Project-Name https://github.com/deepen87/personal-blog
 npm run dev
 ```
 
@@ -74,15 +74,15 @@ You can configure your setup in ``config/SiteConfig``:
 ```JS
 module.exports = {
   pathPrefix: '/', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "portfolio"
-  siteTitle: 'Emma', // Navigation and Site Title
-  siteTitleAlt: 'Emma - Gatsby Starter Portfolio', // Alternative Site title for SEO
-  siteUrl: 'https://embalmer-glues-43220.netlify.com', // Domain of your site. No trailing slash!
+  siteTitle: 'Deepen', // Navigation and Site Title
+  siteTitleAlt: 'Deepen - Gatsby Portfolio', // Alternative Site title for SEO
+  siteUrl: 'https://deependangol.netlify.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logos/logo-1024.png', // Used for SEO and manifest
   siteDescription: 'Minimalistic bright portfolio with full-width grid and large images',
   siteFBAppID: '123456789', // Facebook App ID
-  userTwitter: 'emma', // Twitter Username
-  ogSiteName: 'emma', // Facebook Site Name
+  userTwitter: 'deepen87', // Twitter Username
+  ogSiteName: 'deepen', // Facebook Site Name
   googleAnalyticsID: 'UA-12345689-1',
   copyright: 'Copyright © 2017. All rights reserved. Pictures by Unsplash.', // Copyright in the footer of the site
   
@@ -158,4 +158,4 @@ The plugin chooses the *vibrant* color of the image and applies it as the ``back
 
 ## About Me
 
-Thanks for using my *gatsby-starter*. I hope you like it and create something awesome! To see some of my work you can visit my [website](https://www.lekoarts.de) or support me on [Patreon](https://www.patreon.com/lekoarts) to get some neat rewards (4K images, project files, tutorial insights).
+//Thanks for using my *gatsby-starter*. I hope you like it and create something awesome! To see some of my work you can visit my [website](https://www.lekoarts.de) or support me on [Patreon](https://www.patreon.com/lekoarts) to get some neat rewards (4K images, project files, tutorial insights).
