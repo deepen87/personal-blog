@@ -5,12 +5,12 @@ import Container from '../components/Container/Container'
 import Footer from '../components/Footer/Footer'
 import config from '../../config/SiteConfig'
 
-export default class About extends React.Component {
+export default class Blog extends React.Component {
 	render() {
 		return (
 			<div className="container about-container">
-				<Helmet title={`About | ${config.siteTitle}`} />
-				<Header>About</Header>
+				<Helmet title={`Blog | ${config.siteTitle}`} />
+				<Header>Blog</Header>
 				<Container text>
 					<h1>Hi!</h1>
 					<p>

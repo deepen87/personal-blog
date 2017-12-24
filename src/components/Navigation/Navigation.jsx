@@ -31,11 +31,11 @@ export default class Navigation extends Component {
 					<Fade down duration={2000} className={styles.wrapper}>
 						<nav className={styles.navigation}>
 							<span>
-								<Link to="/about" activeClassName="active">
-                  About
+								<Link to="/blog" activeClassName="active">
+                  BLOG
 								</Link>
 								<Link to="/contact" activeClassName="active">
-                  Contact
+                  CONTACT
 								</Link>
 							</span>
 						</nav>
@@ -87,18 +87,18 @@ export default class Navigation extends Component {
 								<h1>{config.siteTitle}</h1>
 							</Link>
 							<Link
-								to="/about"
+								to="/blog"
 								activeClassName="active"
 								onClick={() => this.closeMenu()}
 							>
-                About
+                BLOG
 							</Link>
 							<Link
 								to="/contact"
 								activeClassName="active"
 								onClick={() => this.closeMenu()}
 							>
-                Contact
+                CONTACT
 							</Link>
 							<div className={styles.mobileNavSocialMedia}>
 								<a

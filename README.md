@@ -1,4 +1,4 @@
-![](https://i.imgur.com/M0nwIVi.png)
+
 
 # Gatsby Portfolio Blog: Deepen
 
